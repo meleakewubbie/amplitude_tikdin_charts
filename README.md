@@ -8,5 +8,5 @@
 ### New vs Returning Users Graph for the past 60 days.
 #### https://analytics.amplitude.com/share/10f428ead16f4365945b26432b7e8148
 
-### Daily Active Users/Monthly Active Users ratio
+### Daily Active Users/Monthly Active Users ratio for the past 30 days.
 #### https://analytics.amplitude.com/share/d5d9818e2c824f26bd60f2518ad86229
